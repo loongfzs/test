@@ -68,6 +68,7 @@ rules:
  - IP-CIDR6,fd00::/8,DIRECT
  - DOMAIN,tplogin.cn,DIRECT
  - DOMAIN,fzapph5v1.gjfzpt.cn,👻 测试地址
+ - DOMAIN,fzappv1.gjfzpt.cn,👻 测试地址
  - DOMAIN-SUFFIX,chanct.cn,😈 拦截地址
  - DOMAIN-SUFFIX,gjfzpt.cn,😈 拦截地址
  - GEOIP,CN,☃️ 直连地址
